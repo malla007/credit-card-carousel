@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "resources/fonts/IBMPlexMono-Regular.ttf",
+      "sha1": "e1293fd8cce199a8bddb604e44d4af132911bd73"
+    },
+    {
+      "path": "resources/fonts/Ubuntu-Regular.ttf",
+      "sha1": "8238e55f0320c3abc74057c988367c2f25fa3727"
+    },
+    {
+      "path": "resources/images/master.png",
+      "sha1": "954595a6c9b9ed92736de418aa75a4051cd5c581"
+    },
+    {
+      "path": "resources/images/visa.png",
+      "sha1": "aa85304a751b68295f22084d1c315dace3324630"
+    }
+  ]
+}
